@@ -9,7 +9,6 @@ public class opgaver {
             sum += i;
         }
         return sum;
-
     }
 
     public static void main(String[] args) {
@@ -61,11 +60,6 @@ public class opgaver {
         double speedinK = distanceinKM/timeinHours;
         System.out.print("speed in kmh: ");
         System.out.println(speedinK);
-
-
-
-
-
     }
 
 }
