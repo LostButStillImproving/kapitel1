@@ -8,7 +8,7 @@ public class ExampleTests {
 
     @Test
     public void AdduptoNtest() {
-        Calculator calc = new Calculator();
+        opgaver calc = new opgaver();
         int result = calc.AddupToN(10);
         assertEquals(55,result);
     }
